@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a systems engineering student -  I am in my fifth semester<br>I have experience in the development of large-scale projects<br>I have worked with the OOP model<br>I have knowledge in the languages ​​of:<br>- python<br>- javascript<br>- html<br>- c++ which is my main language currently.
+I am a systems engineering student -  I am in my fifth semester<br>I have experience in the development of large-scale projects<br>I have worked with the OOP model<br>I have knowledge in the languages ​​of:<br>- python<br>- javascript<br>- Java<br>- html<br>- c++ which is my main language currently.
 
 
 ## 🌐 Socials:
